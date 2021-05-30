@@ -11,6 +11,8 @@ Can change the admin account password
 
 Can retrieve back the password using automated mail(python)
 
+
+
 _FACULTY:_
 Can change his/her account password
 
@@ -19,6 +21,8 @@ Can retrieve back the password using automated mail(python)
 Can upload questions
 
 Can view Student Report
+
+
 
 _STUDENT:_
 Can change his/her account password

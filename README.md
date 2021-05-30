@@ -1,9 +1,38 @@
-TINTCovid19Care is an initiative by the students of Techno International New Town.
-We work to verify leads we find from anywhere possible and post it on our various social media handles.
+**This is my first full stack web app project.**
+https://c-compiler-website.herokuapp.com/
+Link for the website
 
-This web app has a simple responsive interface to show district wise data to the end-users.
-The web based chatbot helps to take the important details from the patient and posts it on our fb group after taking the user's permission so that we can quickly help the person out. The vulnerable informations like contact and email details would be automatically mailed to our team members and the information that can be posted publicly is shared.
-A link for vaccine registration is given too.
+  Project name: C compiler website
+
+_ADMIN:_
+To Create and view Faculty and Student Accounts
+
+Can change the admin account password
+
+Can retrieve back the password using automated mail(python)
+
+_FACULTY:_
+Can change his/her account password
+
+Can retrieve back the password using automated mail(python)
+
+Can upload questions
+
+Can view Student Report
+
+_STUDENT:_
+Can change his/her account password
+
+Can retrieve back the password using automated mail(python)
+
+Can view exams and their corresponsing questions
+
+Can view his/her results in the exams he/she appeared
+
+Can view his/her personal info
+
+
+ 
 
 
 Backend:
@@ -12,7 +41,6 @@ MongoDB
 Hosted on Heroku
 
 Frontend:
-Angular
 Html
 Css
 Javascript

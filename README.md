@@ -1,8 +1,8 @@
 **This is my first full stack web app project.**
 https://c-compiler-website.herokuapp.com/
-Link for the website
+->Link for the website
 
-  Project name: C compiler website
+      Project name: C compiler website
 
 _ADMIN:_
 To Create and view Faculty and Student Accounts
